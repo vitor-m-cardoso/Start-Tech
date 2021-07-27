@@ -12,6 +12,6 @@
 
 ### - Bloco 05 - REACT
 
-## - Bloco 06 - GRAPHQL
+### - Bloco 06 - GRAPHQL
 
-## - Bloco 07 - NODEJS
+### - Bloco 07 - NODEJS
