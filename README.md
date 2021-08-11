@@ -2,7 +2,7 @@
 
 ## Repositorio criado para as aulas da Gama Academy em parceria com a Ambev Tech.
 
-### [x] Módulo 01 - Introdução; :white_check_mark:
+- [x] Módulo 01 - Introdução; :white_check_mark:
 
 ### [x] Módulo 02 - Lógica de Programação; :white_check_mark:
 
