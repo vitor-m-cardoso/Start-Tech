@@ -41,3 +41,16 @@ const n: null = null;
 function criar(obj: object) {
   //... algum objeto = {}
 }
+
+// tipo Never (nunca utilizado)
+function loopInfinito(): never {
+  while(true) { }
+}
+
+function erro(mensagem: string): never {
+  throw new Error(mensagem)
+}
+
+function falha() {
+  return erro('algo falhow')
+}
