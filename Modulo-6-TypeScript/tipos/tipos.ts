@@ -87,3 +87,17 @@ function tratarFuncionarios(funcionarios: Funcionario[]) {
   }
 }
 
+// Valores nulos ou opcionais (null ou undefined)
+let altura: number | null = 1.6;
+altura = null;
+
+type Contato = {
+  nome: string;
+  telefone1: string;
+  telefone2?: string; // ? - campo opcional
+}
+
+const contato: Contato = {
+  nome: 'Vitor',
+  telefone1: '12345676',
+}
