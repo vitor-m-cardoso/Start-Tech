@@ -42,7 +42,7 @@ function criar(obj: object) {
   //... algum objeto = {}
 }
 
-// tipo Never (nunca utilizado)
+// tipo Never (quase nunca e utilizado)
 function loopInfinito(): never {
   while(true) { }
 }
