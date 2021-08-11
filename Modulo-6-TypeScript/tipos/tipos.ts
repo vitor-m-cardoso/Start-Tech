@@ -62,3 +62,28 @@ function exibirNota(nota: number | string) {
 }
 exibirNota('10'); // aceita string
 exibirNota(10); // aceita number
+
+// tipo Alias (para criar "apelidos" a tipos)
+type Funcionario = {
+  nome: string;
+  sobrenome: string;
+  dataNascimento: Date;
+}
+
+const funcionarios: Funcionario[] = [{
+  nome: 'Vitor',
+  sobrenome: 'Cardoso',
+  dataNascimento: new Date(),
+},
+{
+  nome: 'Fulano',
+  sobrenome: 'Steve',
+  dataNascimento: new Date(),
+}];
+
+function tratarFuncionarios(funcionarios: Funcionario[]) {
+  for (let funcionario of funcionarios) {
+    console.log('Nome do funcionario', funcionario.nome)
+  }
+}
+
