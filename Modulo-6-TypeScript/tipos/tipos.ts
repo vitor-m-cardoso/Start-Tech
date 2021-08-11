@@ -48,9 +48,17 @@ function loopInfinito(): never {
 }
 
 function erro(mensagem: string): never {
-  throw new Error(mensagem)
+  throw new Error(mensagem);
 }
 
 function falha() {
-  return erro('algo falhow')
+  return erro('algo falhow');
 }
+
+// Union Types (quando existe mais de um tipo)
+const nota: string | number = 5;
+function exibirNota(nota: number | string) {
+  console.log(`A nota e: ${nota}`);
+}
+exibirNota('10'); // aceita string
+exibirNota(10); // aceita number
