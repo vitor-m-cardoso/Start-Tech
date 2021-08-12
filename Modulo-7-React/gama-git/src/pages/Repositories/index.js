@@ -16,12 +16,13 @@ export default function Repositories() {
     <S.Container>
       <S.Title>Repositórios</S.Title>
       <S.List>
-        { renderRepositories ? renderRepositories.map((repository) => {
+        { renderRepositories ? renderRepositories.map((repository, idx) => {
           return (
-            <S.ListItem>{ `Repositório: ${repository}` }</S.ListItem>
+            <S.ListItem key={ idx }>{ `Repositório: ${repository}` }</S.ListItem>
           )
         }) : <S.ListItem>Nenhum repositório encontrado...</S.ListItem> }
       </S.List>
+      <S.LinkHome to="/">Voltar</S.LinkHome>
     </S.Container>
   )
 }
