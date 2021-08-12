@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import axios from 'axios';
+import * as S from './styled.js';
 
 export default function Home() {
   const [user, setUser] = useState('');
@@ -10,20 +11,20 @@ export default function Home() {
   }
 
   return (
-    <>
-      <input
+    <S.Container>
+      <S.Input
         name="user"
         className="inputUser"
         placeholder="Usuário"
         value={ user }
         onChange={({ target: { value } }) => setUser(value) }
       />
-      <button
+      <S.Button
         type="button"
         onClick={ handleSearch }
       >
         Pesquisar
-      </button>
-    </>
+      </S.Button>
+    </S.Container>
   );
 }
