@@ -1,6 +1,6 @@
 # Start-Tech
 
-## Repositorio criado para as aulas da Gama Academy em parceria com a Ambev Tech.
+## Repositorio criado para armazenar as aulas da Gama Academy em parceria com a Ambev Tech.
 
 ### Módulo 01 - Introdução; :white_check_mark:
 - Conceitos abordados:
