@@ -20,7 +20,7 @@
 
 - [x] Módulo 05 - JavaScript Intermediario; :white_check_mark:
 
-- [ ] Módulo 06 - TypeScript;
+- [x] Módulo 06 - TypeScript; :white_check_mark:
 
 - [ ] Módulo 07 - React;
 
