@@ -125,10 +125,10 @@
 
 ### Módulo 07 - React;
 - Conceitos abordados:
-- [ ] 01 - Por que React?
-- [ ] 02 - Preparando o ambiente
-- [ ] 03 - Fundamentos do React
-- [ ] 04 - Consumindo dados de uma API
+- [x] 01 - Por que React?
+- [x] 02 - Preparando o ambiente
+- [x] 03 - Fundamentos do React
+- [x] 04 - Consumindo dados de uma API
 - [ ] 05 - Instalando e configurando react-router-dom
 - [ ] 06 - Importando as rotas no componente App
 - [ ] 07 - Organização, boas práticas e componentes de estilo
