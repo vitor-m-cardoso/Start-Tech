@@ -1,4 +1,4 @@
-# Start-Tech
+# Boas vindas ao repositório Start-Tech.
 
 ## Repositorio criado para armazenar as aulas da Gama Academy em parceria com a Ambev Tech.
 
