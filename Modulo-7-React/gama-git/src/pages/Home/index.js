@@ -7,7 +7,11 @@ export default function Home() {
 
   const handleSearch = async () => {
     const response = await axios.get(`https://api.github.com/users/${user}/repos`);
-    console.log(response.data);
+    const { data } = response;
+    const repoName = [];
+    data.map((repository) => repoName.push(repository.name));
+    
+    localStorage.setItem('repositoriesName', JSON.stringify(repoName));
   }
 
   return (
