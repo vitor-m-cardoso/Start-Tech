@@ -129,24 +129,24 @@
 - [x] 02 - Preparando o ambiente
 - [x] 03 - Fundamentos do React
 - [x] 04 - Consumindo dados de uma API
-- [ ] 05 - Instalando e configurando react-router-dom
-- [ ] 06 - Importando as rotas no componente App
-- [ ] 07 - Organização, boas práticas e componentes de estilo
-- [ ] 08 - Salvando dados no Storage
-- [ ] 09 - Renderizando repositórios e programação declarativa
-- [ ] 10 - Link react-router-dom
-- [ ] 11 - Tratamento de erros e useHistory
-- [ ] 12 - Conditional rendering
-- [ ] 13 - Daqui pra frente e encerramento
+- [x] 05 - Instalando e configurando react-router-dom
+- [x] 06 - Importando as rotas no componente App
+- [x] 07 - Organização, boas práticas e componentes de estilo
+- [x] 08 - Salvando dados no Storage
+- [x] 09 - Renderizando repositórios e programação declarativa
+- [x] 10 - Link react-router-dom
+- [x] 11 - Tratamento de erros e useHistory
+- [x] 12 - Conditional rendering
+- [x] 13 - Daqui pra frente e encerramento
 
 ### Módulo 08 - GraphQL;
 - Conceitos abordados:
-- [ ] 01 - Apresentação e Introdução
-- [ ] 02 - Modelo Cliente e Servidor
-- [ ] 03 - Padrão de Requisição e Resposta
-- [ ] 04 - Iniciando o projeto de exemplo
-- [ ] 05 - Criando o servidor
-- [ ] 06 - Renderização, parâmetros e redirecionamentos
+- [x] 01 - Apresentação e Introdução
+- [x] 02 - Modelo Cliente e Servidor
+- [x] 03 - Padrão de Requisição e Resposta
+- [x] 04 - Iniciando o projeto de exemplo
+- [x] 05 - Criando o servidor
+- [x] 06 - Renderização, parâmetros e redirecionamentos
 - [ ] 07 - Monorepo
 - [ ] 08 - Pacote com React.js
 - [ ] 09 - Rotas com react-router-dom
