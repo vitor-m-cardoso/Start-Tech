@@ -1,36 +1,16 @@
-import { createServer } from 'http';
-import { parse } from 'querystring'; // modulo nativo do node
+import express from 'express';
 
-// configuracoes do servidor e respostas
-const server = createServer((request, response) => {
-  switch(request.url) {
-    case '/status': {
-      response.writeHead(200, {
-        'Content-type': 'application/json',
-      });
-      response.write(JSON.stringify({
-        status: 'Okay',
-      }));
-      response.end();
-      break;
-    }
-    case '/authenticate': {
-      let data = '';
-      request.on('data', (chunk) => {
-        data += chunk;
-      });
-      request.on('end', () => {
-        const params = parse(data);
-        
-        response.end();
-      });
-      break;
-    }
-    default: {
-      response.writeHead(404, 'Service not found.');
-      response.end();
-    }
-  }
+const server = express();
+
+server.get('/status', (_, response) => {
+  response.send({
+    status: 'Okay',
+  })
+});
+
+server.post('/authenticate', express.json(), (request, response) => {
+  console.log('e-mail', request.body.email, 'senha', request.body.password);
+  response.send();
 });
 
 //configurar porta e o hostname
