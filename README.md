@@ -147,136 +147,136 @@
 - [x] 04 - Iniciando o projeto de exemplo
 - [x] 05 - Criando o servidor
 - [x] 06 - Renderização, parâmetros e redirecionamentos
-- [ ] 07 - Monorepo
-- [ ] 08 - Pacote com React.js
-- [ ] 09 - Rotas com react-router-dom
-- [ ] 10 - Mudando server para express
-- [ ] 11 - Requisição assíncrona
-- [ ] 12 - Resolvendo CORS
-- [ ] 13 - APIs RESTful
-- [ ] 14 - Apollo Server
-- [ ] 15 - TypeDefs e resolvers
-- [ ] 16 - Introdução a GraphQL Query
-- [ ] 17 - Criando GraphQL Queries
-- [ ] 18 - Paginação, ordenação e filtros
-- [ ] 19 - GraphQL Mutation
-- [ ] 20 - Mutation para alterar e excluir clients
-- [ ] 21 - Configurando o Apollo Link
-- [ ] 22 - Criando o Apollo Link, o Logger
-- [ ] 23 - Apollo Client e Apollo DevTools
-- [ ] 24 - Hook useQuery e paginação
-- [ ] 25 - Hook useMutation
+- [x] 07 - Monorepo
+- [x] 08 - Pacote com React.js
+- [x] 09 - Rotas com react-router-dom
+- [x] 10 - Mudando server para express
+- [x] 11 - Requisição assíncrona
+- [x] 12 - Resolvendo CORS
+- [x] 13 - APIs RESTful
+- [x] 14 - Apollo Server
+- [x] 15 - TypeDefs e resolvers
+- [x] 16 - Introdução a GraphQL Query
+- [x] 17 - Criando GraphQL Queries
+- [x] 18 - Paginação, ordenação e filtros
+- [x] 19 - GraphQL Mutation
+- [x] 20 - Mutation para alterar e excluir clients
+- [x] 21 - Configurando o Apollo Link
+- [x] 22 - Criando o Apollo Link, o Logger
+- [x] 23 - Apollo Client e Apollo DevTools
+- [x] 24 - Hook useQuery e paginação
+- [x] 25 - Hook useMutation
 
  ### Módulo 09.1 - Node.JS - Parte I - A (Fundamentos de Node);
 - Conceitos abordados:
-- [ ] 01 - Introdução Fundamentos de Node
-- [ ] 02 - Definição de back-end e front-end
-- [ ] 03 - Definição de Node
-- [ ] 04 - Benchmark Node
-- [ ] 05 - Instalação do Node
-- [ ] 06 - Prática "Hello World" em Node
-- [ ] 07 - Documentações de apoio sobre Node
-- [ ] 08 - O problema de gerenciamento de pacotes
-- [ ] 09 - Como funciona NPM
-- [ ] 10 - Prática de NPM
-- [ ] 11 - Documentações de apoio sobre NPM
-- [ ] 12 - Definição de JavaScript
-- [ ] 13 - Prática de desenvolvimento em JavaScript
-- [ ] 14 - Documentações sobre JavaScript
-- [ ] 15 - Definição de TypeScript
-- [ ] 16 - Prática de desenvolvimento em TypeScript
-- [ ] 17 - Documentações de apoio sobre TypeScript
-- [ ] 18 - Finalização
+- [x] 01 - Introdução Fundamentos de Node
+- [x] 02 - Definição de back-end e front-end
+- [x] 03 - Definição de Node
+- [x] 04 - Benchmark Node
+- [x] 05 - Instalação do Node
+- [x] 06 - Prática "Hello World" em Node
+- [x] 07 - Documentações de apoio sobre Node
+- [x] 08 - O problema de gerenciamento de pacotes
+- [x] 09 - Como funciona NPM
+- [x] 10 - Prática de NPM
+- [x] 11 - Documentações de apoio sobre NPM
+- [x] 12 - Definição de JavaScript
+- [x] 13 - Prática de desenvolvimento em JavaScript
+- [x] 14 - Documentações sobre JavaScript
+- [x] 15 - Definição de TypeScript
+- [x] 16 - Prática de desenvolvimento em TypeScript
+- [x] 17 - Documentações de apoio sobre TypeScript
+- [x] 18 - Finalização
 
 ### Módulo 09.2 - Node.JS - Parte I - B (HTTP GET e HTTP POST(Arquitetura WEB));
 - Conceitos abordados:
-- [ ] 01 - Introdução entendendos os conceitos de REST e SOAP
-- [ ] 02 - Configurando Nodemon
-- [ ] 03 - Configurando Docker
-- [ ] 04 - Configurando ElephantSQL e PostBird
-- [ ] 05 - ORM
-- [ ] 06 - Migration usuários
-- [ ] 07 - Model usuários
-- [ ] 08 - Controller usuários
-- [ ] 09 - Hashde senhas usuários
-- [ ] 10 - Autenticação JWT
-- [ ] 11 - Token JWT via Header
-- [ ] 12 - Atualizando usuário
-- [ ] 13 - Validação de dados
-- [ ] 14 - Adicionando foto do usuário
-- [ ] 15 - Vinculando fotos ao usuário
-- [ ] 16 - Listagem de prestadores de serviços
-- [ ] 17 - Models de agendamento
-- [ ] 18 - Criando agendamentos
-- [ ] 19 - Validações e listagem de agendamentos
-- [ ] 20 - Paginação e Listagem de agenda do colaborador
-- [ ] 21 - Configurando o MONGODB e configurando as notificações
-- [ ] 22 - Listando notificações e marcando como lidas
-- [ ] 23 - Final do módulo
+- [x] 01 - Introdução entendendos os conceitos de REST e SOAP
+- [x] 02 - Configurando Nodemon
+- [x] 03 - Configurando Docker
+- [x] 04 - Configurando ElephantSQL e PostBird
+- [x] 05 - ORM
+- [x] 06 - Migration usuários
+- [x] 07 - Model usuários
+- [x] 08 - Controller usuários
+- [x] 09 - Hashde senhas usuários
+- [x] 10 - Autenticação JWT
+- [x] 11 - Token JWT via Header
+- [x] 12 - Atualizando usuário
+- [x] 13 - Validação de dados
+- [x] 14 - Adicionando foto do usuário
+- [x] 15 - Vinculando fotos ao usuário
+- [x] 16 - Listagem de prestadores de serviços
+- [x] 17 - Models de agendamento
+- [x] 18 - Criando agendamentos
+- [x] 19 - Validações e listagem de agendamentos
+- [x] 20 - Paginação e Listagem de agenda do colaborador
+- [x] 21 - Configurando o MONGODB e configurando as notificações
+- [x] 22 - Listando notificações e marcando como lidas
+- [x] 23 - Final do módulo
 
 ### Módulo 10.1 - NODE.JS - Parte II - A (Criando uma REST API);
 - Conceitos abordados:
-- [ ] 01 - Introdução REST API
-- [ ] 02 - O que é REST API
-- [ ] 03 - Recursos: coleção, elemento e sub-elemento
-- [ ] 04 - Endpoints
-- [ ] 05 - Métodos REST
-- [ ] 06 - Versionamento de API
-- [ ] 07 - Status Codes
-- [ ] 08 - Documentação de referência REST API
-- [ ] 09 - O que é DX
-- [ ] 10 - O que é uma documentação de API
-- [ ] 11 - Utilizando o Swagger - Parte 1
-- [ ] 12 - Utilizando o Swagger - Parte 2
-- [ ] 13 - Documentação de referência Swagger
-- [ ] 14 - O que é o Express
-- [ ] 15 - Conhecendo o Postman
-- [ ] 16 - Prática de Express - Parte 1
-- [ ] 17 - Prática de Express - Parte 2
-- [ ] 18 - Prática de Express - Parte 3
-- [ ] 19 - Prática de Express - Parte 4
-- [ ] 20- Documentação de referência Express
-- [ ] 21 - Segurança: Acesso não autorizado
-- [ ] 22 - Segurança: Ataques de integridade
-- [ ] 23 - Segurança: Sobrecarga
-- [ ] 24 - Segurança: Confidencialidade
-- [ ] 25 - Segurança: Implementações equivocadas
+- [x] 01 - Introdução REST API
+- [x] 02 - O que é REST API
+- [x] 03 - Recursos: coleção, elemento e sub-elemento
+- [x] 04 - Endpoints
+- [x] 05 - Métodos REST
+- [x] 06 - Versionamento de API
+- [x] 07 - Status Codes
+- [x] 08 - Documentação de referência REST API
+- [x] 09 - O que é DX
+- [x] 10 - O que é uma documentação de API
+- [x] 11 - Utilizando o Swagger - Parte 1
+- [x] 12 - Utilizando o Swagger - Parte 2
+- [x] 13 - Documentação de referência Swagger
+- [x] 14 - O que é o Express
+- [x] 15 - Conhecendo o Postman
+- [x] 16 - Prática de Express - Parte 1
+- [x] 17 - Prática de Express - Parte 2
+- [x] 18 - Prática de Express - Parte 3
+- [x] 19 - Prática de Express - Parte 4
+- [x] 20- Documentação de referência Express
+- [x] 21 - Segurança: Acesso não autorizado
+- [x] 22 - Segurança: Ataques de integridade
+- [x] 23 - Segurança: Sobrecarga
+- [x] 24 - Segurança: Confidencialidade
+- [x] 25 - Segurança: Implementações equivocadas
 
 ### Módulo 10.2 - NODE.JS - Parte II - B (Consumo de API terceiras);
 - Conceitos abordados:
-- [ ] 01 - Introdução Consumo de API terceiras
-- [ ] 02 - A importância da integração com terceiros
-- [ ] 03 - Como se preparar para integrar
-- [ ] 04 - O que é o Node-Fetch
-- [ ] 05 - Prática de integração com Node-Fetch - Parte 1
-- [ ] 06 - Prática de integração com Node-Fetch - Parte 2
-- [ ] 07 - Prática de integração com Node-Fetch - Parte 3
-- [ ] 08 - Prática de integração com Node-Fetch - Parte 4
-- [ ] 09 - O que é o Axios
-- [ ] 10 - Prática de integração com Axios - Parte 1
-- [ ] 11 - Prática de integração com Axios - Parte 2
-- [ ] 12 - Prática de integração com Axios - Parte 3
-- [ ] 13 - Finalização
+- [x] 01 - Introdução Consumo de API terceiras
+- [x] 02 - A importância da integração com terceiros
+- [x] 03 - Como se preparar para integrar
+- [x] 04 - O que é o Node-Fetch
+- [x] 05 - Prática de integração com Node-Fetch - Parte 1
+- [x] 06 - Prática de integração com Node-Fetch - Parte 2
+- [x] 07 - Prática de integração com Node-Fetch - Parte 3
+- [x] 08 - Prática de integração com Node-Fetch - Parte 4
+- [x] 09 - O que é o Axios
+- [x] 10 - Prática de integração com Axios - Parte 1
+- [x] 11 - Prática de integração com Axios - Parte 2
+- [x] 12 - Prática de integração com Axios - Parte 3
+- [x] 13 - Finalização
 
 ### Módulo 10.3 [Extras] - Testes;
 - Conceitos abordados:
-- [ ] 01 - O que testar, por que testar, como testar?
-- [ ] 02 - Test Driven Development (TDD)
-- [ ] 03 - Behavior Driven Development (BDD)
-- [ ] 04 - Jasmine I
-- [ ] 05 - Jasmine II
-- [ ] 06 - Cucumber I
-- [ ] 07 - Cucumber II
-- [ ] 08 - Jest
-- [ ] 09 - Cypress
+- [x] 01 - O que testar, por que testar, como testar?
+- [x] 02 - Test Driven Development (TDD)
+- [x] 03 - Behavior Driven Development (BDD)
+- [x] 04 - Jasmine I
+- [x] 05 - Jasmine II
+- [x] 06 - Cucumber I
+- [x] 07 - Cucumber II
+- [x] 08 - Jest
+- [x] 09 - Cypress
 
 ### Módulo 10.4 [Extras] - Boas Praticas.
 - Conceitos abordados:
-- [ ] 01 - Introdução
-- [ ] 02 - BEM (Block Element Modifier)
-- [ ] 03 - Design System
-- [ ] 04 - Storybook
-- [ ] 05 - Micro Frontends
-- [ ] 06 - MVC (Model View Controller)
-- [ ] 07 - MVVM (Model View ViewModel)
-- [ ] 08 - Design Patterns: Singleton, Strategy e Adapter
+- [x] 01 - Introdução
+- [x] 02 - BEM (Block Element Modifier)
+- [x] 03 - Design System
+- [x] 04 - Storybook
+- [x] 05 - Micro Frontends
+- [x] 06 - MVC (Model View Controller)
+- [x] 07 - MVVM (Model View ViewModel)
+- [x] 08 - Design Patterns: Singleton, Strategy e Adapter
