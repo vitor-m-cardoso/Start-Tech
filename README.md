@@ -123,7 +123,7 @@
 - [x] 12 - Utilizando Modificadores de Acesso
 - [x] 13 - Herança
 
-### Módulo 07 - React;
+### Módulo 07 - React; :white_check_mark:
 - Conceitos abordados:
 - [x] 01 - Por que React?
 - [x] 02 - Preparando o ambiente
@@ -139,7 +139,7 @@
 - [x] 12 - Conditional rendering
 - [x] 13 - Daqui pra frente e encerramento
 
-### Módulo 08 - GraphQL;
+### Módulo 08 - GraphQL; :white_check_mark:
 - Conceitos abordados:
 - [x] 01 - Apresentação e Introdução
 - [x] 02 - Modelo Cliente e Servidor
@@ -167,7 +167,7 @@
 - [x] 24 - Hook useQuery e paginação
 - [x] 25 - Hook useMutation
 
- ### Módulo 09.1 - Node.JS - Parte I - A (Fundamentos de Node);
+ ### Módulo 09.1 - Node.JS - Parte I - A (Fundamentos de Node); :white_check_mark:
 - Conceitos abordados:
 - [x] 01 - Introdução Fundamentos de Node
 - [x] 02 - Definição de back-end e front-end
@@ -188,7 +188,7 @@
 - [x] 17 - Documentações de apoio sobre TypeScript
 - [x] 18 - Finalização
 
-### Módulo 09.2 - Node.JS - Parte I - B (HTTP GET e HTTP POST(Arquitetura WEB));
+### Módulo 09.2 - Node.JS - Parte I - B (HTTP GET e HTTP POST(Arquitetura WEB)); :white_check_mark:
 - Conceitos abordados:
 - [x] 01 - Introdução entendendos os conceitos de REST e SOAP
 - [x] 02 - Configurando Nodemon
@@ -214,7 +214,7 @@
 - [x] 22 - Listando notificações e marcando como lidas
 - [x] 23 - Final do módulo
 
-### Módulo 10.1 - NODE.JS - Parte II - A (Criando uma REST API);
+### Módulo 10.1 - NODE.JS - Parte II - A (Criando uma REST API); :white_check_mark:
 - Conceitos abordados:
 - [x] 01 - Introdução REST API
 - [x] 02 - O que é REST API
@@ -242,7 +242,7 @@
 - [x] 24 - Segurança: Confidencialidade
 - [x] 25 - Segurança: Implementações equivocadas
 
-### Módulo 10.2 - NODE.JS - Parte II - B (Consumo de API terceiras);
+### Módulo 10.2 - NODE.JS - Parte II - B (Consumo de API terceiras); :white_check_mark:
 - Conceitos abordados:
 - [x] 01 - Introdução Consumo de API terceiras
 - [x] 02 - A importância da integração com terceiros
@@ -258,7 +258,7 @@
 - [x] 12 - Prática de integração com Axios - Parte 3
 - [x] 13 - Finalização
 
-### Módulo 10.3 [Extras] - Testes;
+### Módulo 10.3 [Extras] - Testes; :white_check_mark:
 - Conceitos abordados:
 - [x] 01 - O que testar, por que testar, como testar?
 - [x] 02 - Test Driven Development (TDD)
@@ -270,7 +270,7 @@
 - [x] 08 - Jest
 - [x] 09 - Cypress
 
-### Módulo 10.4 [Extras] - Boas Praticas.
+### Módulo 10.4 [Extras] - Boas Praticas. :white_check_mark:
 - Conceitos abordados:
 - [x] 01 - Introdução
 - [x] 02 - BEM (Block Element Modifier)
